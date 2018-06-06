@@ -11,7 +11,7 @@ license: MIT
 dependencies:
   awscr-signer:
     github: findchris/awscr-signer
-    version: 0.5.1
+    branch: master
 
 development_dependencies:
   timecop:
